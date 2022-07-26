@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/unity.jpg" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
+<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan/blob/main/images/media%20logo/patikadev.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
     
 # mypatikadevrepo
 
