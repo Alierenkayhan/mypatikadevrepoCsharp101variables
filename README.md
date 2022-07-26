@@ -28,17 +28,13 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/mypatikadevrepo/total)
  <a href="https://github.com/Alierenkayhan/mypatikadevrepo/archive/refs/heads/main.zip">
 <img src="https://img.shields.io/badge/Download-Project-blue" /></a>
-<a href="https://app.patika.dev/alierenkayhan">![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2Fmypatikadevrepo) </a>
- 
-    
+<a href="https://app.patika.dev/alierenkayhan">![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2Fmypatikadevrepo) </a>    
 </div>
 
 
 This is my Patika Dev works repository. 
 
 My Patika Dev page = https://app.patika.dev/alierenkayhan
- 
- 
 
 
 ## Table of Contents
@@ -57,20 +53,14 @@ My Patika Dev page = https://app.patika.dev/alierenkayhan
  
 
 ## Features
-1-Features of TheVirus <br/>
-    - 3D game<br/>
-    - Horror game <br/>
+1-Features of  <br/>
+    - <br/>
    
 ## Screenshots
-  1-Screenshots of TheVirus
+  1-Screenshots of 
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/menu.jpg" alt="TheVirus" width ="100%" height = "auto"/></p></td>
-        <td>  <img align="left" src="screenshots/story.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
-    </tr>
-    <tr>
-        <td>  <img align="left" src="screenshots/beginning.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="screenshots/monster.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="" alt="TheVirus" width ="100%" height = "auto"/></p></td>
     </tr>
    </table>
 
