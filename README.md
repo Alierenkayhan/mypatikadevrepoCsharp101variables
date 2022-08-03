@@ -39,7 +39,7 @@
 <div align="center">
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    👨‍💻 My C# 101 Patika Dev works repository 👨‍💻
     <br />
     <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101"><strong>Explore the docs »</strong></a>
     <br />
