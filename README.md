@@ -102,6 +102,7 @@ My Patika Dev page = https://app.patika.dev/alierenkayhan
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### 🎯 Features
+* Provided several types of variables
 
 <!-- GETTING STARTED -->
 ## 🏁 Getting Started
