@@ -5,7 +5,7 @@
 <div align="center">
     
   
-![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/mypatikadevrepo?style=social)   
+![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/mypatikadevrepoCsharp101?style=social)   
 ![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepo?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepo?style=social)
  
@@ -37,13 +37,14 @@ This is my C# 101 Patika Dev works repository.
 My Patika Dev page = https://app.patika.dev/alierenkayhan
 
 
-## Table of Contents
+## 📝 Table of Contents
 
 * [General Info](#mypatikadevrepo)
 * [Technologies Used](#Technologies)
 * [Prerequisites](#Prerequisites)
 * [Features](#Features)
 * [Screenshots](#Screenshots)
+* [Getting Started](#Getting Started)
 * [Lisans](#Lisans)
 * [Feedback](#Feedback)
 * [Reference](#Reference)
@@ -52,7 +53,7 @@ My Patika Dev page = https://app.patika.dev/alierenkayhan
 - <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
  
 
-## Features
+## ⛏️  Features
 1-Features of  <br/>
     - <br/>
    
@@ -64,13 +65,30 @@ My Patika Dev page = https://app.patika.dev/alierenkayhan
     </tr>
    </table>
 
+## 🏁 Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+Prerequisites
+What things you need to install the software and how to install them.
+
+Give examples
+Installing
+A step by step series of examples that tell you how to get a development env running.
+
+Say what the step will be
+
+Give the example
+And repeat
+
+until finished
+End with an example of getting some data out of the system or using it for a little demo.
  
-## Lisans
+## 🧐 Lisans
 
 This project is licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license.
 
   
-## Feedback
+## ✍️ Feedback
 
 If you have any feedback, please contact me at ali_erenbatman@hotmail.com.
   
