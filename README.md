@@ -1,32 +1,32 @@
-<img align="left" src="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/blob/main/images/media/logo/patikadev.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
+<img align="left" src="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables/blob/main/images/media/logo/patikadev.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
     
-# mypatikadevrepoCsharp101
+# mypatikadevrepoCsharp101variables
 
 <div align="center">
     
   
-![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/mypatikadevrepoCsharp101?style=social)   
-![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepoCsharp101?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepoCsharp101?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/mypatikadevrepoCsharp101variables?style=social)   
+![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepoCsharp101variables?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepoCsharp101variables?style=social)
  
-[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/mypatikadevrepoCsharp101)](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/blob/main/LICENSE)    
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/mypatikadevrepoCsharp101variables)](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables/blob/main/LICENSE)    
  
-[![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/mypatikadevrepoCsharp101)](https://img.shields.io/github/issues/Alierenkayhan/mypatikadevrepoCsharp101)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/mypatikadevrepoCsharp101)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/mypatikadevrepoCsharp101)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/mypatikadevrepoCsharp101) 
-[![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepoCsharp101)](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepoCsharp101)
-[![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepoCsharp101)](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepoCsharp101)
-![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/mypatikadevrepoCsharp101/goto)
+[![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/mypatikadevrepoCsharp101variables)](https://img.shields.io/github/issues/Alierenkayhan/mypatikadevrepoCsharp101variables)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/mypatikadevrepoCsharp101variables)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/mypatikadevrepoCsharp101variables)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/mypatikadevrepoCsharp101variables) 
+[![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepoCsharp101variables)](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepoCsharp101variables)
+[![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepoCsharp101variables)](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepoCsharp101variables)
+![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/mypatikadevrepoCsharp101variables/goto)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/mypatikadevrepoCsharp101)
-![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/mypatikadevrepoCsharp101)
-![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/mypatikadevrepoCsharp101)
-![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/mypatikadevrepoCsharp101)
-![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/mypatikadevrepoCsharp101) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/mypatikadevrepoCsharp101variables)
+![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/mypatikadevrepoCsharp101variables)
+![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/mypatikadevrepoCsharp101variables)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/mypatikadevrepoCsharp101variables)
+![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/mypatikadevrepoCsharp101variables) 
 
-![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/mypatikadevrepoCsharp101/total)
- <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/archive/refs/heads/main.zip">
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/mypatikadevrepoCsharp101variables/total)
+ <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables/archive/refs/heads/main.zip">
 <img src="https://img.shields.io/badge/Download-Project-blue" /></a>
 <a href="https://app.patika.dev/alierenkayhan">![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2FmypatikadevrepoCsharp101) </a>    
 </div>
@@ -41,12 +41,12 @@
   <p align="center">
     👨‍💻 My C# 101 Patika Dev works repository 👨‍💻
     <br />
-    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/issues">Report Bug</a>
+    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/issues">Request Feature</a>
+    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables/issues">Request Feature</a>
   </p>
 </div>
 
@@ -85,6 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 🌟 About The Project
 
+<img align="middle" src="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables/blob/main/images/variables.png?raw=true" alt="Alierenkayhan" width ="auto" height = "1200px"/></p>
 
 This is my C# 101 Patika Dev works repository.
 
@@ -114,7 +115,7 @@ My Patika Dev page = https://app.patika.dev/alierenkayhan
 1. To Get Started, Fork this repository to your GitHub account:
 2. Clone the repo from your account using:
    ```sh
-   git clone https://github.com/Alierenkayhan/mypatikadevrepoCsharp101.git
+   git clone https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables.git
    ```
 3. Open in editor
 
@@ -149,7 +150,7 @@ After cloning the project, you can open it in Visual Studio Code.
 - [ ] Proje - 2
 - [ ] Coderbyte Challenge
 
-See the [open issues](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables/issues) for a full list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -178,7 +179,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 If you have any feedback, please contact me at ali_erenbatman@hotmail.com.
 
-Project Link: [https://github.com/Alierenkayhan/mypatikadevrepoCsharp101](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101)
+Project Link: [https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables)
 
 
 <!-- Resources -->
