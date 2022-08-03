@@ -44,11 +44,9 @@
     <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101">View Demo</a>
+    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101">Report Bug</a>
-    ·
-    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101">Request Feature</a>
+    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/issues">Request Feature</a>
   </p>
 </div>
 
