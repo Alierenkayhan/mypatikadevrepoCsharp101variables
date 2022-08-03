@@ -71,7 +71,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -124,31 +123,6 @@ My Patika Dev page = https://app.patika.dev/alierenkayhan
 ## 💡 Usage
 
 After cloning the project, you can open it in Visual Studio Code.
-
-
-<!-- ROADMAP -->
-## 🧭 Roadmap
-
-- [x] Giriş
-- [x] Kurulumlar
-- [x] Console Programlama
-- [x] Değişkenler
-- [ ] Operatörler
-- [ ] Tip Dönüşümleri
-- [ ] Hata Yönetimi ve Kod İzleme
-- [ ] Karar Yapıları
-- [ ] Döngüler
-- [ ] Diziler
-- [ ] Metotlar
-- [ ] Odev - 1
-- [ ] Csharp Hazır Metotlar
-- [ ] Koleksiyonlar
-- [ ] Odev-2
-- [ ] Sinif Kavramı
-- [ ] Nesneye Dayalı Programlama
-- [ ] Proje - 1
-- [ ] Proje - 2
-- [ ] Coderbyte Challenge
 
 See the [open issues](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables/issues) for a full list of proposed features (and known issues).
 
