@@ -86,7 +86,7 @@
 
 <img align="middle" src="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables/blob/main/images/variables.png?raw=true" alt="Alierenkayhan" width ="auto" height = "1200px"/></p>
 
-This is my C# 101 Patika Dev works repository.
+This is my C# 101 Patika Dev work for variables repository.
 
 My Patika Dev page = https://app.patika.dev/alierenkayhan
 
