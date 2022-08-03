@@ -92,17 +92,15 @@ This is my C# 101 Patika Dev works repository.
 
 My Patika Dev page = https://app.patika.dev/alierenkayhan
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### 👾  Built With
 
 * <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### 🎯 Features
 * Provided several types of variables
+
 
 <!-- GETTING STARTED -->
 ## 🏁 Getting Started
@@ -123,32 +121,37 @@ My Patika Dev page = https://app.patika.dev/alierenkayhan
 3. Open in editor
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## 💡 Usage
 
 After cloning the project, you can open it in Visual Studio Code.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## 🧭 Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Giriş
+- [x] Kurulumlar
+- [x] Console Programlama
+- [x] Değişkenler
+- [ ] Operatörler
+- [ ] Tip Dönüşümleri
+- [ ] Hata Yönetimi ve Kod İzleme
+- [ ] Karar Yapıları
+- [ ] Döngüler
+- [ ] Diziler
+- [ ] Metotlar
+- [ ] Odev - 1
+- [ ] Csharp Hazır Metotlar
+- [ ] Koleksiyonlar
+- [ ] Odev-2
+- [ ] Sinif Kavramı
+- [ ] Nesneye Dayalı Programlama
+- [ ] Proje - 1
+- [ ] Proje - 2
+- [ ] Coderbyte Challenge
 
 See the [open issues](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -165,17 +168,11 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch 
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -184,8 +181,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 If you have any feedback, please contact me at ali_erenbatman@hotmail.com.
 
 Project Link: [https://github.com/Alierenkayhan/mypatikadevrepoCsharp101](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- Resources -->
@@ -197,11 +192,9 @@ Project Link: [https://github.com/Alierenkayhan/mypatikadevrepoCsharp101](https:
 * Patika Dev
 * Kodluyoruz
 
+
 <!-- ACKNOWLEDGMENTS -->
 ## ✍️ Acknowledgments
 
 * Patika Dev
 * Kodluyoruz
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
