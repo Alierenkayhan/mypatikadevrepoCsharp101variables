@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/mypatikadevrepo/blob/main/images/media/logo/patikadev.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
+<img align="left" src="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/blob/main/images/media/logo/patikadev.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
     
 # mypatikadevrepoCsharp101
 
@@ -6,92 +6,201 @@
     
   
 ![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/mypatikadevrepoCsharp101?style=social)   
-![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepo?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepoCsharp101?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepoCsharp101?style=social)
  
-[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/mypatikadevrepo)](https://github.com/Alierenkayhan/mypatikadevrepo/blob/main/LICENSE)    
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/mypatikadevrepoCsharp101)](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/blob/main/LICENSE)    
  
-[![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/mypatikadevrepo)](https://img.shields.io/github/issues/Alierenkayhan/mypatikadevrepo)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/mypatikadevrepo)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/mypatikadevrepo)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/mypatikadevrepo) 
-[![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepo)](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepo)
-[![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepo)](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepo)
-![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/mypatikadevrepo/goto)
+[![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/mypatikadevrepoCsharp101)](https://img.shields.io/github/issues/Alierenkayhan/mypatikadevrepoCsharp101)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/mypatikadevrepoCsharp101)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/mypatikadevrepoCsharp101)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/mypatikadevrepoCsharp101) 
+[![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepoCsharp101)](https://img.shields.io/github/forks/Alierenkayhan/mypatikadevrepoCsharp101)
+[![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepoCsharp101)](https://img.shields.io/github/stars/Alierenkayhan/mypatikadevrepoCsharp101)
+![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/mypatikadevrepoCsharp101/goto)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/mypatikadevrepo)
-![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/mypatikadevrepo)
-![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/mypatikadevrepo)
-![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/mypatikadevrepo)
-![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/mypatikadevrepo) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/mypatikadevrepoCsharp101)
+![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/mypatikadevrepoCsharp101)
+![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/mypatikadevrepoCsharp101)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/mypatikadevrepoCsharp101)
+![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/mypatikadevrepoCsharp101) 
 
-![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/mypatikadevrepo/total)
- <a href="https://github.com/Alierenkayhan/mypatikadevrepo/archive/refs/heads/main.zip">
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/mypatikadevrepoCsharp101/total)
+ <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/archive/refs/heads/main.zip">
 <img src="https://img.shields.io/badge/Download-Project-blue" /></a>
-<a href="https://app.patika.dev/alierenkayhan">![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2Fmypatikadevrepo) </a>    
+<a href="https://app.patika.dev/alierenkayhan">![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2FmypatikadevrepoCsharp101) </a>    
 </div>
 
 
-This is my C# 101 Patika Dev works repository. 
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101">View Demo</a>
+    ·
+    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101">Report Bug</a>
+    ·
+    <a href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📝 Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+         <li><a href="#Features">Features</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+     <li><a href="#Resources">Resources</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## 🌟 About The Project
+
+
+This is my C# 101 Patika Dev works repository.
 
 My Patika Dev page = https://app.patika.dev/alierenkayhan
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## 📝 Table of Contents
+### 👾  Built With
 
-* [General Info](#mypatikadevrepo)
-* [Technologies Used](#Technologies)
-* [Prerequisites](#Prerequisites)
-* [Features](#Features)
-* [Screenshots](#Screenshots)
-* [Getting Started](#Getting Started)
-* [Lisans](#Lisans)
-* [Feedback](#Feedback)
-* [Reference](#Reference)
- 
-## Technologies
-- <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
- 
+* <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
 
-## ⛏️  Features
-1-Features of  <br/>
-    - <br/>
-   
-## Screenshots
-  1-Screenshots of 
-  <table> 
-    <tr>
-        <td>  <img align="" alt="TheVirus" width ="100%" height = "auto"/></p></td>
-    </tr>
-   </table>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### 🎯 Features
+
+<!-- GETTING STARTED -->
 ## 🏁 Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Prerequisites
-What things you need to install the software and how to install them.
+### Prerequisites
+  ```sh
+  .net 5.0 or 6.0
+  VS code
+  ```
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running.
+### ⚙️ Installation
 
-Say what the step will be
+1. To Get Started, Fork this repository to your GitHub account:
+2. Clone the repo from your account using:
+   ```sh
+   git clone https://github.com/Alierenkayhan/mypatikadevrepoCsharp101.git
+   ```
+3. Open in editor
 
-Give the example
-And repeat
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo.
- 
-## 🧐 Lisans
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This project is licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license.
 
-  
-## ✍️ Feedback
+
+<!-- USAGE EXAMPLES -->
+## 💡 Usage
+
+After cloning the project, you can open it in Visual Studio Code.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ROADMAP -->
+## 🧭 Roadmap
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
+See the [open issues](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## 🧐 Contributing
+
+Pull requests are **accepted**. For major changes, please open a thread to discuss what you want to change first.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
+5. Open a Pull Request
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## ✍️ Contact
 
 If you have any feedback, please contact me at ali_erenbatman@hotmail.com.
-  
-## Reference
-    -https://github.com/alexandresanlim/Badges4-README.md-Profile
-    -https://shields.io/
+
+Project Link: [https://github.com/Alierenkayhan/mypatikadevrepoCsharp101](https://github.com/Alierenkayhan/mypatikadevrepoCsharp101)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- Resources -->
+## 🚀 Resources
+
+* https://github.com/othneildrew/Best-README-Template
+* https://github.com/alexandresanlim/Badges4-README.md-Profile
+* https://shields.io/
+* Patika Dev
+* Kodluyoruz
+
+<!-- ACKNOWLEDGMENTS -->
+## ✍️ Acknowledgments
+
+* Patika Dev
+* Kodluyoruz
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
