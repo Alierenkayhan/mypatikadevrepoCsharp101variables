@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/Alierenkayhan/mypatikadevrepo/blob/main/images/media/logo/patikadev.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
     
-# mypatikadevrepo
+# mypatikadevrepoCsharp101
 
 <div align="center">
     
@@ -32,7 +32,7 @@
 </div>
 
 
-This is my Patika Dev works repository. 
+This is my C# 101 Patika Dev works repository. 
 
 My Patika Dev page = https://app.patika.dev/alierenkayhan
 
